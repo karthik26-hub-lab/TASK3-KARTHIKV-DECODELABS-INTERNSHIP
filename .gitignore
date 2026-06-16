@@ -1,0 +1,8 @@
+# Ignore backend dependencies
+backend/node_modules/
+
+# Ignore backend secrets
+backend/.env
+
+# macOS system files (if applicable)
+.DS_Store
